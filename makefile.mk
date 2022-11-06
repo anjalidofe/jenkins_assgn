@@ -1,0 +1,2 @@
+gcc hellome.c
+

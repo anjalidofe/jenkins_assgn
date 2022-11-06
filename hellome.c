@@ -5,5 +5,6 @@ int main(){
 	printf("My name is Anjali\nThis is my Jenkins assgn\n");
 	int a=5, b = 10;
 	printf("%d\n",a+b);
+	printf("MiniChange for autotriggering\n");
 	return 0;
 }
